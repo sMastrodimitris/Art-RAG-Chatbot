@@ -54,3 +54,16 @@ A Langchain RAG-LLM Bot, using a ChromaDB created from Wikipedia Articles about 
 ![My Logo](images/GPT/GPT3.png)
 
 
+
+
+
+## The barebone Gradio App looked like this
+![My Logo](images/Gradio/Gradio1.png)
+
+## But by adding an AI Image Generator the final results is much more impressive 
+![My Logo](images/Gradio/Gradio1.png)
+![My Logo](images/Gradio/Gradio2.png)
+![My Logo](images/Gradio/Gradio3.png)
+
+
+
