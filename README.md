@@ -62,8 +62,9 @@ A Langchain RAG-LLM Bot, using a ChromaDB created from Wikipedia Articles about 
 
 ## But by adding an AI Image Generator the final results is much more impressive 
 ![My Logo](images/Gradio/Gradio2.png)
-![My Logo](images/Gradio/Gradio3.png)
+![My Logo](images/Gradio/Gradio9.png)
 ![My Logo](images/Gradio/Gradio8.png)
+![My Logo](images/Gradio/Gradio3.png)
 
 
 
