@@ -22,26 +22,28 @@ A Langchain RAG-LLM Bot, using a ChromaDB created from Wikipedia Articles about 
 ### Here is the query using the VectorDB without a informed retreiver.
 ![My Logo](images/Vector.png)
 
+\n\n
 
-#### Here is the RAG results for questioning about Stained glass
+### Here is the RAG results for questioning about Stained glass
 
 #### Here is the RAG results with Claude
 ![My Logo](images/Claude/Claude1.png)
 #### Here is the RAG results with GPT-3.5 Turbo
 ![My Logo](images/GPT/GPT1.png)
 
+\n\n
 
 
-#### Here is the RAG results for questioning about Stained glass
+#### Here is the RAG results for questioning about the Legacy of Donatello
 
 #### Here is the RAG results with Claude
 ![My Logo](images/Claude/Claude2.png)
 #### Here is the RAG results with GPT-3.5 Turbo
 ![My Logo](images/GPT/GPT2.png)
 
+\n\n
 
-
-#### Here is the RAG results for questioning about Stained glass
+#### Here is the RAG results for questioning about the phrace "the man is the measure of all things"
 
 #### Here is the RAG results with Claude
 ![My Logo](images/Claude/Claude3.png)
