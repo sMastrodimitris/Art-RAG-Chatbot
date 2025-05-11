@@ -28,8 +28,8 @@ A Langchain RAG-LLM Bot, using a ChromaDB created from Wikipedia Articles about 
 
 
 
-### Here is the RAG results for questioning about Stained glass
 
+### Here is the RAG results for questioning about Stained glass
 #### Here is the RAG results with Claude
 ![My Logo](images/Claude/Claude1.png)
 #### Here is the RAG results with GPT-3.5 Turbo
@@ -38,9 +38,7 @@ A Langchain RAG-LLM Bot, using a ChromaDB created from Wikipedia Articles about 
 
 
 
-
 #### Here is the RAG results for questioning about the Legacy of Donatello
-
 #### Here is the RAG results with Claude
 ![My Logo](images/Claude/Claude2.png)
 #### Here is the RAG results with GPT-3.5 Turbo
@@ -51,7 +49,6 @@ A Langchain RAG-LLM Bot, using a ChromaDB created from Wikipedia Articles about 
 
 
 #### Here is the RAG results for questioning about the phrace "the man is the measure of all things"
-
 #### Here is the RAG results with Claude
 ![My Logo](images/Claude/Claude3.png)
 #### Here is the RAG results with GPT-3.5 Turbo
