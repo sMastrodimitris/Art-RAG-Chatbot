@@ -67,5 +67,6 @@ A Langchain RAG-LLM Bot, using a ChromaDB created from Wikipedia Articles about 
 ![My Logo](images/Gradio/Gradio8.png)
 ![My Logo](images/Gradio/Gradio3.png)
 
+## As the results prove the RAG can effectivelly draw uppon speciallised knowledge using the Langchain retreiver from the Vectorised Knowledge Database while providing a funny human looking response as set by the prompt. Also it filters anything that the database does not know avoiding any hallucinations or drawing from the LLM prior knowlegde. 
 
 
