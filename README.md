@@ -16,7 +16,7 @@ A Langchain RAG-LLM Bot, using a ChromaDB created from Wikipedia Articles about 
 
 
 ##### *Because Github is a bit silly i only could provide the code but not the prints. Below you can find some example that i saved by hand.
-##### *Besides that both the Wikipedia Document JSON and the Vector Database zip were too big to load ¯\_(ツ)_/¯
+##### *Besides that both the Wikipedia Document JSON and the Vector Database zip were too big to load  ¯|_(ツ)_/¯
 ##### *Also i added a separate .txt file that describes the problems found and how I tackled them. (challenges.txt)
 
 
