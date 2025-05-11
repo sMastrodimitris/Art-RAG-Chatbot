@@ -15,7 +15,7 @@ A Langchain RAG-LLM Bot, using a ChromaDB created from Wikipedia Articles about 
 ### Step3: Use a retreiver and and a LLM to provide natural, accurate and informed answers (art_claude_rag). Take it a step further by changing the LLm and create a simple Gradio App. (art_GPT_gradio_implementation)
 
 
-##### *Because Github is a bit silly i only could providde the code but not the prints. Below you can find some example that i saved by hand.
+##### *Because Github is a bit silly i only could provide the code but not the prints. Below you can find some example that i saved by hand.
 ##### *Also i added a separate .txt file that describes the problems found and how I tackled them. (challenges.txt)
 
 
