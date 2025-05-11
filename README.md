@@ -23,14 +23,29 @@ A Langchain RAG-LLM Bot, using a ChromaDB created from Wikipedia Articles about 
 ![My Logo](images/Vector.png)
 
 
-### Here is the RAG results with Claude
+#### Here is the RAG results for questioning about Stained glass
+
+#### Here is the RAG results with Claude
 ![My Logo](images/Claude/Claude1.png)
-![My Logo](images/Claude/Claude2.png)
-![My Logo](images/Claude/Claude3.png)
-
-
-### Here is the RAG results with GPT-3.5 Turbo
+#### Here is the RAG results with GPT-3.5 Turbo
 ![My Logo](images/GPT/GPT1.png)
+
+
+
+#### Here is the RAG results for questioning about Stained glass
+
+#### Here is the RAG results with Claude
+![My Logo](images/Claude/Claude2.png)
+#### Here is the RAG results with GPT-3.5 Turbo
 ![My Logo](images/GPT/GPT2.png)
+
+
+
+#### Here is the RAG results for questioning about Stained glass
+
+#### Here is the RAG results with Claude
+![My Logo](images/Claude/Claude3.png)
+#### Here is the RAG results with GPT-3.5 Turbo
 ![My Logo](images/GPT/GPT3.png)
+
 
