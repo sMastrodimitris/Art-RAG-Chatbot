@@ -29,28 +29,28 @@ A Langchain RAG-LLM Bot, using a ChromaDB created from Wikipedia Articles about 
 
 
 ### Here is the RAG results for questioning about Stained glass
-#### The RAG results with Claude
+#### With Claude
 ![My Logo](images/Claude/Claude1.png)
-#### The RAG results with GPT-3.5 Turbo
+#### With GPT-3.5 Turbo
 ![My Logo](images/GPT/GPT1.png)
 
 
 
 
 ### Here is the RAG results for questioning about the Legacy of Donatello
-#### Here is the RAG results with Claude
+#### With Claude
 ![My Logo](images/Claude/Claude2.png)
-#### Here is the RAG results with GPT-3.5 Turbo
+#### With GPT-3.5 Turbo
 ![My Logo](images/GPT/GPT2.png)
 
 
 
 
 
-### Here is the RAG results for questioning about the phrace "the man is the measure of all things"
-#### The RAG results with Claude
+### The RAG results for questioning about the phrace "the man is the measure of all things"
+#### With Claude
 ![My Logo](images/Claude/Claude3.png)
-#### The RAG results with GPT-3.5 Turbo
+#### With GPT-3.5 Turbo
 ![My Logo](images/GPT/GPT3.png)
 
 
